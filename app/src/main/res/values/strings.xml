@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">LiveDataSample</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="number_of_medal_label">%d huy chương</string>
+    <string name="number_of_gold_label">%d HC Vàng</string>
+    <string name="number_of_silver_label">%d HC Bạc</string>
+    <string name="number_of_bronze_label">%d HC Đồng</string>
+    <string name="minus_button_label">-</string>
+    <string name="plus_button_label">+</string>
+    <string name="gold_label">Vàng</string>
+    <string name="silver_label">Bạc</string>
+    <string name="bronze_label">Đồng</string>
+</resources>
